@@ -1,0 +1,1 @@
+{"uuid":"8b97436f-722a-4acc-9a45-2beaf3de0f0e","name":"GetCityNeighborsTest","children":["3794573c-06ae-4050-b4d3-b9f2cf3dea51"],"befores":[{"name":"initTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1712003274361,"stop":1712003274380}],"afters":[],"start":1712003274323,"stop":1712003279914}

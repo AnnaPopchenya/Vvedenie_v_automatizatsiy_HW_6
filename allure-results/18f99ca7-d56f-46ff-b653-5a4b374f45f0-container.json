@@ -1,0 +1,1 @@
+{"uuid":"18f99ca7-d56f-46ff-b653-5a4b374f45f0","name":"GetWeatherTwentyFourHourTest","children":["6abc1a6b-0bbb-4f2e-9a7d-64566256841c"],"befores":[{"name":"initTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1712003298630,"stop":1712003298630}],"afters":[],"start":1712003298629,"stop":1712003299508}

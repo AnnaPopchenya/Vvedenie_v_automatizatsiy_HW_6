@@ -1,0 +1,1 @@
+{"uuid":"19c5c82e-3edf-4236-9313-6a6515028f25","name":"GetWeatherTwelveHourTest","children":["1a73350b-15e2-4816-8045-e247753e16ae"],"befores":[{"name":"initTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1712003297662,"stop":1712003297663}],"afters":[],"start":1712003297662,"stop":1712003298628}
